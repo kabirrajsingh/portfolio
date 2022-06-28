@@ -38,7 +38,7 @@ function About() {
               </div>
             </div>
             <p>
-            I also provide other services such as app development or mass-email service. Just send in a contact request and we shall discuss further. Other than my professional works, I like to play the guitar, play competitive games or just sleep.
+            I am trading in cryptocurrency and NFTS for over 2 years now and have also taught trading strategies to many. I also provide other services such as app development or mass-email service. Just send in a contact request and we shall discuss further. Other than my professional works, I like to play the guitar, play competitive games or just sleep.
             </p>
           </div>
         </div>

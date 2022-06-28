@@ -11,7 +11,7 @@ function Home() {
         const options = {
             strings: [
                 "'m a <strong>Web3</strong>  <i>newbie</i>",
-                "'m a Valorant streamer sometimes.",
+                "'m a crypto and NFT trader.",
                 "'m a <strong>Full Stack</strong> Web Developer"
             ],
             typeSpeed: 50,

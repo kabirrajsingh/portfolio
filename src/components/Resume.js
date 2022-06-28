@@ -42,6 +42,22 @@ function Resume() {
               <p><em>Burnpur Riverside School, Burnpur</em></p>
               <p>Secondary Examination- 91%</p>
             </div>
+            <h3 className="resume-title">Co-Curricular</h3>
+            <div className="resume-item">
+              <h4>Crypto and NFT Trading</h4>
+              <p><em>Jadavpur University, Kolkata</em></p>
+              <p>I have organised various webinars educating people about trading strategies and about the market itself.</p>
+            </div>
+            <div className="resume-item">
+              <h4>Sponsorship</h4>
+              <p><em>JU DebSoc, Kolkata</em></p>
+              <p>I have worked as the Sponsorship USG and OC for the very prestigious JUMUN for both 2021 and 2022.</p>
+            </div>
+            <div className="resume-item">
+              <h4>Kickboxing</h4>
+              <p><em>Asansol</em></p>
+              <p>I have practiced Kickboxing and Funakoshi Shotokan Karate for 4 years and have won various competitions at the District level.</p>
+            </div>
           </div>
           <div className="col-lg-6">
             <h3 className="resume-title">Professional Experience</h3>
