@@ -25,12 +25,12 @@ function Portfolio() {
 
           <div className="col-lg-4 col-md-6 portfolio-item filter-app">
             <div className="portfolio-wrap">
-              <img src="/portfolio/brainaspire.png" className="img-fluid" alt="" />
+              <img src="./portfolio/brainaspire.png" className="img-fluid" alt="" />
               <div className="portfolio-info">
                 <h4>Brain Aspire</h4>
                 <p>A full-stack application created for a coaching institute providing fee,attendance as well as class test facilities.</p>
                 <div className="portfolio-links">
-                  <a href="/portfolio/brainaspire.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
+                  <a href="./portfolio/brainaspire.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
                   <a href="https://brainaspire.in/" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" target="_blank"><i className="bx bx-link" ></i></a>
                 </div>
               </div>
@@ -38,12 +38,12 @@ function Portfolio() {
           </div>
           <div className="col-lg-4 col-md-6 portfolio-item filter-app">
             <div className="portfolio-wrap">
-              <img src="/portfolio/cryptoverse.png" className="img-fluid" alt="" />
+              <img src="./portfolio/cryptoverse.png" className="img-fluid" alt="" />
               <div className="portfolio-info">
                 <h4>Crypto Verse</h4>
                 <p>An application which provides realtime Crypto Coin data as well as latest news.</p>
                 <div className="portfolio-links">
-                  <a href="/portfolio/cryptoverse.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
+                  <a href="./portfolio/cryptoverse.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
                   <a href="https://jazzy-platypus-3347d7.netlify.app/" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" target="_blank"><i className="bx bx-link" ></i></a>
                 </div>
               </div>
@@ -51,7 +51,7 @@ function Portfolio() {
           </div>
           <div className="col-lg-4 col-md-6 portfolio-item filter-app">
             <div className="portfolio-wrap">
-              <img src="/portfolio/dawatrestaurant.png" className="img-fluid" alt="" />
+              <img src="./portfolio/dawatrestaurant.png" className="img-fluid" alt="" />
               <div className="portfolio-info">
                 <h4>Dawat Restaurant Theme</h4>
                 <p>A React Based Frontend created for Integration into the QuikShope application.</p>
@@ -64,12 +64,12 @@ function Portfolio() {
           </div>
           <div className="col-lg-4 col-md-6 portfolio-item filter-app">
             <div className="portfolio-wrap">
-              <img src="/portfolio/kampusvire.png" className="img-fluid" alt="" />
+              <img src="./portfolio/kampusvire.png" className="img-fluid" alt="" />
               <div className="portfolio-info">
                 <h4>KampusVire</h4>
                 <p>A transaction wallet based app created for any college campus integrated with Celo cryptocurrency.</p>
                 <div className="portfolio-links">
-                  <a href="/portfolio/kampusvire.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
+                  <a href="./portfolio/kampusvire.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
                   <a href="https://devfolio.co/projects/kampusvire-f9ab" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" target="_blank"><i className="bx bx-link" ></i></a>
                 </div>
               </div>
@@ -77,12 +77,12 @@ function Portfolio() {
           </div>
           <div className="col-lg-4 col-md-6 portfolio-item filter-app">
             <div className="portfolio-wrap">
-              <img src="/portfolio/intellup.png" className="img-fluid" alt="" />
+              <img src="./portfolio/intellup.png" className="img-fluid" alt="" />
               <div className="portfolio-info">
                 <h4>Intellup</h4>
                 <p>An interactive live game educational platform.</p>
                 <div className="portfolio-links">
-                  <a href="/portfolio/intellup.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
+                  <a href="./portfolio/intellup.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
                   <a href="https://devfolio.co/projects/intellup-1d62" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" target="_blank"><i className="bx bx-link" ></i></a>
                 </div>
               </div>
@@ -90,12 +90,12 @@ function Portfolio() {
           </div>
           <div className="col-lg-4 col-md-6 portfolio-item filter-app">
             <div className="portfolio-wrap">
-              <img src="/portfolio/hotelridley.png" className="img-fluid" alt="" />
+              <img src="./portfolio/hotelridley.png" className="img-fluid" alt="" />
               <div className="portfolio-info">
                 <h4>Hotel Ridley International</h4>
                 <p>An app for a hotel based in Digha supporting bookings and payments.</p>
                 <div className="portfolio-links">
-                  <a href="/portfolio/hotelridley.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
+                  <a href="./portfolio/hotelridley.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
                   <a href="https://www.hotelridley.in" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" target="_blank"><i className="bx bx-link" ></i></a>
                 </div>
               </div>
